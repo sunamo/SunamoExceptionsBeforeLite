@@ -1,3 +1,7 @@
+## Short description
+
+Starší verze balíčku s výjimkami a pomocnými třídami pro jejich vyhazování, včetně Exc, Exceptions a OutRef. Předchází odlehčené variantě SunamoExceptions.
+
 ### SunamoExceptions
 
 Part of PlatformIndependentNuGetPackages:
