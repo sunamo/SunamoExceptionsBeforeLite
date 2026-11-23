@@ -1,4 +1,3 @@
-;
 public class TypesDelegates
 {
     public static readonly Type tAction = typeof(Action);
